@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Droid-cafe</string>
+    <string name="droid_desserts">Droid Desserts</string>
+    <string name="text_donut">Donuts are glazed and sprinkled with candy.</string>
+    <string name="text_icecream">Icecream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="text_froyo">Froyo is premium self-serve frozen yorgurt.</string>
+</resources>
